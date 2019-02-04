@@ -12,6 +12,7 @@ public class Main {
 //        VIM commands
 //        выход:      Esc;     Shift + :;   q !; Enter;     изменить файл:i    сохранить и выйти ?:     Esc Shift + :wq Enter
 //        Пробую сам
+        /////
 
     }
 }
