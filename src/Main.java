@@ -17,6 +17,7 @@ public class Main {
 //        изменить файл:i
 //        сохранить и выйти ?:
 //        Esc Shift + :wq Enter
+//        Пробую сам
 
     }
 }
