@@ -5,7 +5,8 @@ public class Main {
 //        git init создание локального git репозиотрия
 //        git status печатеть текущее изменение в проекте
 //        git add проиндексировать все изменения
-//        git commit
+//        git commit создать комент
+//        git commit -m "Second commit"
 //        git config --global user.email "azizbekuulut@gmail.com"
 //        git config --global user.name "auTimur"
 //        VIM commands
